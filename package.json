@@ -1,6 +1,6 @@
 {
   "name": "@osdiab/io-ts",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "TypeScript runtime type system for IO decoding/encoding",
   "main": "lib/index.js",
   "module": "es6/index.js",
